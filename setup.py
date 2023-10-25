@@ -8,7 +8,7 @@ with open('README.md') as file:
 
 setup(
     name='natasha',
-    version='1.6.0',
+    version='1.6.1',
 
     description='Named-entity recognition for russian language',
     long_description=description,
